@@ -8,7 +8,7 @@
 
 ## 技术栈
 
-Spring+Mybatis+SpringMVC+MySQL8+JQuery+BootStrap+JAVASCRIPT
+Spring+Mybatis+SpringMVC+MySQL8+JQuery+BootStrap+JavaScript
 
 ## 搭建SSM项目的步骤
 1. 新建Maven工程
